@@ -1,2 +1,2 @@
 # hello-myfirst
-just anthor repository
+just another repository
